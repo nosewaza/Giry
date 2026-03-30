@@ -2,10 +2,10 @@
 
 module.exports = {
   token:
-    "MTM5OTE4Njk2Nzk2NjUxOTMyNg.GLDefb.-o",
-  clientId: "1399186967966519326",
+    "",
+  clientId: "1488010567489687642",
   prefix: ">",
-  ownerID: "870179991462236170",
+  ownerID: "1013858505771466843",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
@@ -22,7 +22,7 @@ module.exports = {
       "https://discord.com/api/oauth2/authorize?client_id=1399186967966519326&permissions=824671333721&scope=bot",
     arrkiii:
       "https://cdn.discordapp.com/attachments/1187323477032697867/1236626903847407696/Arrkiii.gif",
-    power: "Powered By Arrkiii Development 🌙",
+    power: "Powered By Chaserbled 🌙",
     vanity: "discord.gg/urV9mkfW9t",
     guild: "1325384856477368420",
     topgg: "https://top.gg/bot/1033496708992204840/vote",
